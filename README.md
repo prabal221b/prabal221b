@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on enhancing my software engineering skills and contributing to projects in the procurement department.<br>👯 I’m looking to collaborate on open-source projects and innovative tech solutions related to automation or software engineering.<br>🐥 I’m seeking help with backend technologies, especially improving my knowledge of microservices and cloud computing.<br>🌱 I’m currently learning full-stack development.<br>💬 Ask me about progress in my software projects or new tools I experiment with.<br>⚡ Fun fact: I have a habit of making playlists specifically for road trips, even if the trip is only 30 minutes long!
+🔭 I’m working on enhancing my software engineering skills and contributing to projects.<br>👯 I’m looking to collaborate on open-source projects and innovative tech solutions related to automation or software engineering.<br>🐥 I’m seeking help with backend technologies, especially improving my microservices and cloud computing knowledge.<br>🌱 I’m currently learning full-stack development.<br>💬 Ask me about progress in my software projects or new tools I experiment with.<br>⚡ Fun fact: I have a habit of making playlists specifically for road trips, even if the trip is only 30 minutes long!
 
 
 ## 🌐 Socials:
