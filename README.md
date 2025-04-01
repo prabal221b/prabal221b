@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20👋&fontSize=60&fontColor=CCF1E7)
+
+
 # 💫 About Me:
 🔭 I’m working on enhancing my software engineering skills in Spring Boot and contributing to projects.<br>👯 I’m looking to collaborate on open-source projects and innovative tech solutions related to automation or software engineering.<br>🐥 I’m seeking help with backend technologies, especially improving my microservices and cloud computing knowledge.<br>🌱 I’m currently learning Cloud Computing in AWS.<br>⚡ Fun fact: I have a habit of making playlists specifically for road trips, even if the trip is only 30 minutes long!
 
