@@ -72,8 +72,3 @@ Hello! I'm Prabal, a passionate software engineer with a strong focus on backend
 </p>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Prabal221b&icon=0&color=0"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
