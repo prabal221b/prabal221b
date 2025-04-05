@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-Hello! I'm Prabal, a passionate software engineer with a strong focus on backend development using Spring Boot. I love building scalable and efficient applications and am constantly seeking to improve my skills and knowledge in software engineering.
+I'm a software developer with a strong focus on backend development using Spring Boot. I love building scalable and efficient applications and am constantly seeking to improve my skills and knowledge in software engineering.
 
 🔭 I’m currently working on several exciting projects involving Spring Boot and cloud technologies.<br>
 👯 I’m eager to collaborate on open-source projects and innovative tech solutions that make a difference.<br>
