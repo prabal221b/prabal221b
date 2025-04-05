@@ -12,7 +12,7 @@ I'm a software developer with a strong focus on backend development using Spring
 🔭 I’m currently working on several exciting projects involving Spring Boot and cloud technologies.<br>
 👯 I’m eager to collaborate on open-source projects and innovative tech solutions that make a difference.<br>
 🌱 I’m continuously learning and exploring new technologies, with a keen interest in cloud computing, microservices, and DevOps.<br>
-⚡ I am currently working on a full-stack application using React and Next.js.<br>
+⚡ I am currently working on a full-stack application using React, Next.js and MongoDB.<br>
 
 
 ## 🌐 Socials:
